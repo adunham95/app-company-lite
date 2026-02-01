@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1024 1024"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.74707031"
+     inkscape:cx="511.33072"
+     inkscape:cy="512"
+     inkscape:window-width="2560"
+     inkscape:window-height="965"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <!-- Background -->
+  <!-- Stacked app tiles (flat, centered, full presence) -->
+  <!-- Bottom tile -->
+  <rect
+     x="204.57983"
+     y="530.01831"
+     width="627.23718"
+     height="352.82092"
+     rx="40"
+     fill="#444b57"
+     id="rect2"
+     style="stroke-width:1"
+     ry="40" />
+  <!-- Middle tile -->
+  <rect
+     x="165.3775"
+     y="373.20901"
+     width="705.64185"
+     height="392.02325"
+     rx="40"
+     fill="#d9e1ec"
+     id="rect3"
+     style="stroke-width:1"
+     ry="40" />
+  <!-- Top tile -->
+  <rect
+     x="126.17516"
+     y="177.19739"
+     width="784.04651"
+     height="450.82672"
+     rx="44"
+     fill="#2f8de8"
+     id="rect4"
+     style="stroke-width:1"
+     ry="44" />
+</svg>
