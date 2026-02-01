@@ -14,7 +14,7 @@
 				<span
 					class="inline-block h-3 w-3 rounded-full"
 					style={`background:${$gameState.company.companyColor}`}
-				/>
+				></span>
 				<h1 class="text-2xl font-semibold text-gray-900">{$gameState.company.companyName}</h1>
 			</div>
 			<p class="mt-1 text-sm text-gray-600">Founder: {$gameState.company.playerName}</p>
