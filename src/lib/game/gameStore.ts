@@ -11,7 +11,13 @@ import type {
 import { loadFromLocalStorage, saveToLocalStorage, clearSave } from './storage';
 import { tickOneDay } from './gameLogic';
 import { uid } from './utils';
-import { baseForType, featuresForType, MARKET_SIZES, COMPETITOR_SEEDS } from './catalog';
+import {
+	baseForType,
+	featuresForType,
+	MARKET_SIZES,
+	COMPETITOR_SEEDS,
+	COMPETITORS
+} from './catalog';
 
 type Speed = 1 | 2 | 5;
 
@@ -54,7 +60,7 @@ function newGame(): GameState {
 			markets: types.map((type) => ({
 				type,
 				size: MARKET_SIZES[type],
-				competitors: COMPETITOR_SEEDS[type].map((seed) => ({
+				competitors: COMPETITORS[type].map((seed) => ({
 					id: uid('comp'),
 					name: seed.name,
 					type,
